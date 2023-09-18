@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @surajwate
-- 👀 I’m interested in python, business analytics and data science
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on my new website which I am planning to build in Django
+- 👀 I’m interested in python, business analytics and data science.
 - 📫 How to reach me ... suraj.wate at gmail.
 
 <!---
