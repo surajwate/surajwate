@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a data scientist and machine learning enthusia
 - **[Advertising Sales Regression](https://github.com/surajwate/advertising-sales-regression):** A regression analysis project focused on predicting sales outcomes based on advertising spend.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, R, SQL
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
-- **Tools:** Jupyter Notebook, Git, Docker, VS Code
+- **Languages:** Python, SQL
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib
+- **Tools:** Jupyter Notebook, Git, VS Code
 - **Web Development:** HTML, CSS, JavaScript, 11ty (Eleventy)
 
 ## 🌍 Connect with Me
